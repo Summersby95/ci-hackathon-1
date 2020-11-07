@@ -1,0 +1,18 @@
+body {
+  font-family: 'Playfair Display', sans-serif;
+  background-color: #bd924d;
+}
+h2 {
+  font-weight: bold;
+}
+
+.container {
+  background-color: #ffe0b0;
+  border-radius: 10px;
+}
+.navbar {
+  background-color: #ffe0b0;
+}
+.list-group-item {
+  background-color: transparent;
+}
